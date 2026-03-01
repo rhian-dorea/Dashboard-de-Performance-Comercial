@@ -9,6 +9,7 @@ Analisar desempenho de vendas e identificar oportunidades de crescimento.
 - Power BI
 - Power Query
 - DAX
+- EXCEL
 
 ## 📷 Preview do Dashboard
 
